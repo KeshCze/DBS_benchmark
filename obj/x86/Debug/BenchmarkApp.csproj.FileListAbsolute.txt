@@ -1,0 +1,13 @@
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Debug\BenchmarkApp.exe
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Debug\BenchmarkApp.pdb
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Aneta\Desktop\BenchmarkApp\obj\x86\Debug\BenchmarkApp.exe
+C:\Users\Aneta\Desktop\BenchmarkApp\obj\x86\Debug\BenchmarkApp.pdb
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\obj\x86\Debug\BenchmarkApp.exe
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\obj\x86\Debug\BenchmarkApp.pdb
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\bin\Debug\BenchmarkApp.exe
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\bin\Debug\BenchmarkApp.pdb
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lukas\OneDrive\Plocha\BenchmarkApp (1)\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Release\BenchmarkApp.exe
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Release\BenchmarkApp.pdb
+C:\Users\Aneta\Desktop\BenchmarkApp\bin\Release\Oracle.DataAccess.dll
+C:\Users\Aneta\Desktop\BenchmarkApp\obj\x86\Release\BenchmarkApp.csprojResolveAssemblyReference.cache
+C:\Users\Aneta\Desktop\BenchmarkApp\obj\x86\Release\BenchmarkApp.exe
+C:\Users\Aneta\Desktop\BenchmarkApp\obj\x86\Release\BenchmarkApp.pdb

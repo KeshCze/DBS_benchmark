@@ -26,7 +26,7 @@ namespace BenchmarkApp
         {
             mTableObjects.Add(tableObject);
         }
-
+        // Změna
         public DbTable GetTableObject(out int index)
         {
             ///int num = mRandom.Next(mTableObjects.Count);
